@@ -1,4 +1,3 @@
-# WandaDP Portofolio
 Data Science Portofolio
 
 ## Project 1 : [Data Cleansing (Data Telco)](https://github.com/WandaDP/DataCleansing)
