@@ -1,2 +1,2 @@
-# WandaDP-Portofolio
+# WandaDP Portofolio
 Data Science Portofolio
