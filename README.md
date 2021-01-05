@@ -1,4 +1,9 @@
 ## Project 1 : [Data Cleansing (Data Telco)](https://github.com/WandaDP/DataCleansing)
+Data cleaning is the process of repairing or deleting incorrect, corrupted, malformed, duplicate, or incomplete data in a data set. The steps that will be taken for this project are:
+- Looking for a Valid customerID
+- Overcoming Empty Data (Missing Values)
+- Overcoming Outliers of Each Variable
+- Standardize the Values of Each Variables
 ### Code and Resources :
 - Language : Python 3.6
 - Library : Pandas, Matplotlib, Seaborn
