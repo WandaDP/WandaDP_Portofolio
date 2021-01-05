@@ -1,4 +1,10 @@
 ## Project 1 : [Data Cleansing (Data Telco)](https://github.com/WandaDP/DataCleansing)
+### Overview
+### Code and Resources :
+- Language : Python 3.6
+- Library : Pandas, Matplotlib, Seaborn
+- Dataset : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco.csv
+#
 
 ## Project 2 : [Customer Churn Prediction Using Machine Learning with Data Telco](https://github.com/WandaDP/CustomerChurnPrediction)
 ### Overview
@@ -6,14 +12,25 @@
 - Perform testing on several models (Linear Regression, Gradient Boosting, Random Forest) 
 - Determining the best model
 
+<img src="Cnf_Metrix_Training_Model_Logistic_Regression.png" width="300" heigh="300">
+
+<img src="Cnf_Metrix_Testing_Model_Logistic_Regression.png" width="300" heigh="300">
 
 ### Code and Resources :
 - Python Version: 3.6
 - Packages: pandas, matplotlib, seaborn, numpy, sklearn
 - Dataset : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco_final.csv
 - Case Study : DQLab
+#
 
 ## Project 3 : [DQLab Sport Center Data Analysis](https://github.com/WandaDP/DQLabSportCenterDataAnalysis)
+### Overview
+### Code and Resources :
+- Python Version: 3.6
+- Packages: pandas, matplotlib, seaborn, numpy, sklearn
+- Dataset : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/data_retail.csv
+- Case Study : DQLab
+#
 
 ## Project 4 : [Customer Segmentation for Markerting](https://github.com/WandaDP/CustomerSegmentation)
 ### Overview
