@@ -1,13 +1,12 @@
 ## Project 1 : [Data Cleansing (Data Telco)](https://github.com/WandaDP/DataCleansing)
-### Overview
 ### Code and Resources :
 - Language : Python 3.6
 - Library : Pandas, Matplotlib, Seaborn
 - Dataset : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco.csv
 #
+#
 
 ## Project 2 : [Customer Churn Prediction Using Machine Learning with Data Telco](https://github.com/WandaDP/CustomerChurnPrediction)
-### Overview
 - We will be able to understand and practice how to predicting customer churn using machine learning.
 - Perform testing on several models (Linear Regression, Gradient Boosting, Random Forest) 
 - Determining the best model
@@ -22,18 +21,18 @@
 - Dataset : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco_final.csv
 - Case Study : DQLab
 #
+#
 
 ## Project 3 : [DQLab Sport Center Data Analysis](https://github.com/WandaDP/DQLabSportCenterDataAnalysis)
-### Overview
 ### Code and Resources :
 - Python Version: 3.6
 - Packages: pandas, matplotlib, seaborn, numpy, sklearn
 - Dataset : https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/data_retail.csv
 - Case Study : DQLab
 #
+#
 
 ## Project 4 : [Customer Segmentation for Markerting](https://github.com/WandaDP/CustomerSegmentation)
-### Overview
 - We will be able to understand and practice how to perform customer segmentation techniques using python
 - Segmenting customers in Python using the K-Prototypes algorithm
 - Search for the optimal number of segments using elbow method
