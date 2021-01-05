@@ -4,6 +4,7 @@ Data cleaning is the process of repairing or deleting incorrect, corrupted, malf
 - Overcoming Empty Data (Missing Values)
 - Overcoming Outliers of Each Variable
 - Standardize the Values of Each Variables
+
 ### Code and Resources :
 - Language : Python 3.6
 - Library : Pandas, Matplotlib, Seaborn
