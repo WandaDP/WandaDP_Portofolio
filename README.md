@@ -1,5 +1,3 @@
-Data Science Portofolio
-
 ## Project 1 : [Data Cleansing (Data Telco)](https://github.com/WandaDP/DataCleansing)
 
 ## Project 2 : [Customer Churn Prediction Using Machine Learning with Data Telco](https://github.com/WandaDP/CustomerChurnPrediction)
@@ -8,9 +6,6 @@ Data Science Portofolio
 - Perform testing on several models (Linear Regression, Gradient Boosting, Random Forest) 
 - Determining the best model
 
-<img src="Images/Cnf_Metrix_Training_Model_Logistic_Regression.png" width="300" heigh="300">
-
-<img src="Images/Cnf_Metrix_Testing_Model_Logistic_Regression.png" width="300" heigh="300">
 
 ### Code and Resources :
 - Python Version: 3.6
